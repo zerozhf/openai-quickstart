@@ -148,3 +148,14 @@ Django Peng - pjt73651@email.com
 
 ## day1 homework
 link: https://chatgpt.com/share/18613705-7a53-4a2a-8ed1-7a6cbeacbf88
+
+## day2
+### 1
+link: https://github.com/zerozhf/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
+### 2
+link: https://github.com/zerozhf/openai-quickstart/blob/main/openai-translator/ai_translator/main.py
+### 3
+link: https://github.com/zerozhf/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb?short_path=9df2334
+
+## day3
+link: https://github.com/zerozhf/openai-quickstart/tree/main/langchain/phone_sale_chatbot
