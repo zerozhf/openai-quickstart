@@ -146,3 +146,9 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+## day1 homework
+link: https://chatgpt.com/share/18613705-7a53-4a2a-8ed1-7a6cbeacbf88
+
+## day2
+
+
